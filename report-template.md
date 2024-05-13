@@ -26,15 +26,11 @@ If I were given more time with this dataset, I would spend more time experimenti
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-TODO: Replace the image below with your own.
-
-![model_train_score.png](img/model_training_score.png)
+![model_training_score.png](/model_training_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-TODO: Replace the image below with your own.
-
-![model_test_score.png](img/model_testing_score.png)
+![model_testing_score.png](/model_testing_score.png)
 
 ## Summary
 Overall, the project demonstrates the effectiveness of AutoGluon in predicting bike sharing demand. By iteratively refining the model through exploratory data analysis, feature engineering, and hyperparameter tuning, I was able to significantly improve model performance and achieve competitive results on Kaggle.
