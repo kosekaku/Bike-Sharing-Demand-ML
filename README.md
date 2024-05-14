@@ -11,7 +11,7 @@ I dive into a Kaggle competition with the aim of building a robust predictive mo
 [![Bike Sharing](model_test_score.png)](/model_test_score.png)
 
 
-My workflow involves several steps:
+My workflow involved several steps
 - First, I download the Bike Sharing Demand dataset from Kaggle and train a baseline model using AutoGluon.
 - I then submit our initial results to Kaggle for ranking.
 - Next, I iterate on the model by enhancing the dataset with additional features and tuning hyperparameters using AutoGluon.
