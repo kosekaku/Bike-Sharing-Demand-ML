@@ -1,5 +1,6 @@
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
 #### Kose Bilali
+>Software Developer | Data Analyst | ML Engineer Enthusiast
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
